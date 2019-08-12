@@ -30,7 +30,7 @@ related-id: start-java
 
 По умолчанию в Android Studio в качестве разметки используется контейнер `ConstraintLayout`. Для новичков он не совсем простой. Поменяем на обычный `LinearLayout`.
 
-Перейдем в текстовой режим разметки XML файла. Там мы внутри контейнера `ConstraintLayout` видим элемент `TextView` с фразой `Hello, World!`.
+Перейдем в текстовой режим разметки XML файла. Там мы внутри контейнера `ConstraintLayout` видим элемент `TextView` с фразой `Hello, World!`:
 
 ![Переход к текстовому отображению activity_main.xml](img/xml_02.png)
 
@@ -60,7 +60,7 @@ related-id: start-java
 
 ![Отображение атрибутов компонентов](img/edittext_02.png)
 
-Обратим внимание на то, что поле имеет имя (id) `editText`:
+Обратим внимание на то, что поле имеет имя (`id`) `editText`:
 
 ![Идентификатор текстового поля](img/edittext_03.png)
 
