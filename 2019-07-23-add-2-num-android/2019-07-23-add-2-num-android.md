@@ -26,10 +26,6 @@ related-id: start-java
 
 ![Переход к activity_main.xml](img/xml_01.png)
 
-В Android Studio 4 изменили размещение переключателя дизайна и кода разметки экрана:
-
-![Переключение на режим дизайна разметки кода](img/android-studio-4_01.png)
-
 ## Размещение компонентов
 
 По умолчанию в Android Studio в качестве разметки используется контейнер `ConstraintLayout`. Для новичков он не совсем простой. Поменяем на обычный `LinearLayout`.
@@ -52,37 +48,33 @@ related-id: start-java
 </LinearLayout>
 ```
 
-В Android Studio 4 изменили размещение переключателя дизайна и кода разметки экрана:
-
-![Переключение на режим текста разметки кода](img/android-studio-4_02.png)
-
 Перейдем обратно в режим дизайна:
 
 ![Возвращение к визуальному редактированию activity_main.xml](img/xml_03.png)
 
 Перетащим текстовое поле:
 
-![Перетащенное текстовое поле](img/edittext_01.png)
+![Перетащенное текстовое поле](img/edit-text_01.png)
 
-Включим отображение атрибутов компонентов:
+Включим отображение атрибутов компонентов, если оно отключено:
 
-![Отображение атрибутов компонентов](img/edittext_02.png)
+![Отображение атрибутов компонентов](img/edit-text_02.png)
 
-Обратим внимание на то, что поле имеет имя (`id`) `editText`:
+Поменяем значение поля `id` (имя компонента) на `editText`:
 
-![Идентификатор текстового поля](img/edittext_03.png)
+![Идентификатор текстового поля](img/edit-text_03.png)
 
 Поменяем начальный текст в поле ввода на какое-нибудь число:
 
-![Изменение параметра text](img/edittext_04.png)
+![Изменение параметра text](img/edit-text_04.png)
 
 Перетащим еще одно текстовое поле, которое будет иметь имя `editText2`:
 
-![Второе текстовое поле](img/edittext_05.png)
+![Второе текстовое поле](img/edit-text_05.png)
 
 Также поменяем начальный текст в поле ввода на какое-нибудь число:
 
-![Изменение параметра text](img/edittext_06.png)
+![Изменение параметра text](img/edit-text_06.png)
 
 Перетащим кнопку:
 
@@ -94,17 +86,19 @@ related-id: start-java
 
 Перетащим поле с текстом для вывода:
 
-![Текстовое поле для вывода](img/textview_01.png)
+![Текстовое поле для вывода](img/text-view_01.png)
 
 Начальный текст поменяем, например, на `=`:
 
-![Текстовое поле для вывода](img/textview_02.png)
+![Текстовое поле для вывода](img/text-view_02.png)
 
 Начальный размер шрифта в TextView маленький, так что увеличим его. За это отвечает свойство `textSize`, которое можно найти либо в списке всех атрибутов, либо через поиск:
 
-![Текстовое поле для вывода](img/textview_03.png)
+![Текстовое поле для вывода](img/text-view_03.png)
 
-![Текстовое поле для вывода](img/textview_04.png)
+Поменяем на `36sp`:
+
+![Текстовое поле для вывода](img/text-view_04.png)
 
 В текстовом варианте получившаяся разметка будет такой:
 
@@ -314,9 +308,9 @@ android:onClick="clickButton"
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:paddingLeft="16dp"
-    android:paddingRight="16dp">
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
 
     <EditText
         android:id="@+id/editText"
@@ -364,17 +358,15 @@ android:onClick="clickButton"
 
 ![Запуск компилирования проекта](img/run_04.png)
 
-![Выбор устройства, на котором будет запускаться проект](img/run_05.png)
-
-![Запущенное приложение](img/run_06.png)
+![Запущенное приложение](img/run_05.png)
 
 Введем какие-нибудь числа и нажмем кнопку:
 
-![Результат выполнения программы](img/run_07.png)
+![Результат выполнения программы](img/run_06.png)
 
 ## Второй способ обработки клика кнопки
 
-Теперь реализуем второй способ обработки клика, который я рекомендую использовать вместо первого. А чем плох первый? Мы в XML файле прописали, как называется метод из Java кода, который нужно запускать, то есть смешали код реализации и код разметки между собой. Это не очень хорошо. Попробуем не вносить изменения в XML файл.
+Теперь реализуем второй способ обработки клика, который я рекомендую использовать вместо первого. А чем плох первый? Мы в XML файле прописали, как называется метод из Java кода, который нужно запускать, то есть смешали код реализации и код разметки между собой. Это не очень хорошо. Попробуем не вносить изменения в XML файл (то есть строчку `android:onClick="clickButton"` добавлять не будем).
 
 Добавим еще одну переменную для связки кнопки из XML файла с Java кодом. Красноту помните, как убирать:
 
@@ -491,16 +483,16 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-Файл Полный код файла `MainActivity.java` остался без изменений (строчки `android:onClick="clickButton"` тут нет):
+Файл Полный код файла `activity_main.xml` остался без изменений (строчки `android:onClick="clickButton"` тут нет):
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:paddingLeft="16dp"
-    android:paddingRight="16dp">
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
 
     <EditText
         android:id="@+id/editText"
@@ -535,4 +527,4 @@ public class MainActivity extends AppCompatActivity {
 
 При запуске мы получим такое же по функциональности приложение, как и при первом способе:
 
-![Запущенное приложение](img/run_08.png)
+![Запущенное приложение](img/run_07.png)
