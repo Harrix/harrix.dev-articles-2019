@@ -281,11 +281,9 @@ update: 2021-08-07
 
 Если родной эмулятор от Android Studio не запускается или тормозит так, что работать нельзя, то можно попробовать сторонние эмуляторы, благо их много.
 
-[Genymotion](/blog/2018/genymotion-for-android-studio/) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
-
-[Koplayer](/blog/2018/koplayer-for-android-studio/) — говорят, что он нетребователен к оперативной памяти и работает даже при 2 Гб оперативки.
-
 [BlueStacks](/blog/2018/bluestacks-for-android-studio/) — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
+
+[Genymotion](/blog/2018/genymotion-for-android-studio/) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
 
 [Nox](/blog/2018/nox-for-android-studio/) — еще один популярный эмулятор от китайцев, которым лично много пользовался.
 
