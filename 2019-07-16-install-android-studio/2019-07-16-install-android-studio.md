@@ -2,7 +2,7 @@
 categories: [it, program]
 tags: [Установка, Android Studio, Android, Java]
 related-id: start-java
-update: 2021-08-07
+update: 2021-08-09
 ---
 
 # Установка Android Studio в Windows
@@ -25,9 +25,11 @@ update: 2021-08-07
 
 ## JDK
 
-Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка JDK в Windows](/blog/2019/install-jdk-on-windows/).
+Если раньше нужно было самостоятельно устанавливать JDK, то теперь он устанавливается самостоятельно при установке Android Studio:
 
-Помните, что не всегда самая последняя версия JDK подойдет. Например, на август 2020 года последняя на тот момент Java 14 вызывала ошибку `Cause: invalid type code: 1C`, но в августе 2021 года последняя Java 16 работает отлично с Android Studio.
+![Установленный JDK](img/android-studio-jdk.png)
+
+Но если всё таки что-то пошло не так, то подробно об установке JDK можно узнать в статьях: [Установка JDK в Windows](/blog/2019/install-jdk-on-windows/) или  [Установка OpenJDK в Windows](/blog/2021/install-open-jdk-on-windows/).
 
 ## Скачивание Android Studio
 
