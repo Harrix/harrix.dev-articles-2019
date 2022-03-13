@@ -10,7 +10,7 @@ related-id: start-java
 
 ## Установка JDK
 
-Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка JDK в Windows](/blog/2019/install-jdk-on-windows/).
+Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка Open JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2021/blob/main/2021-08-09-install-open-jdk-on-windows/2021-08-09-install-open-jdk-on-windows.md).
 
 ## Скачивание IntelliJ IDEA
 
@@ -112,4 +112,4 @@ System.out.println("Hello, World!");
 
 ## Дополнительно
 
-В статье [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](/blog/2015/add-2-numbers-intellij-idea/) вы можете посмотреть пример того, как сложить два числа.
+В статье [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-15-add-2-num-intellij-idea/2019-07-15-add-2-num-intellij-idea.md) вы можете посмотреть пример того, как сложить два числа.
