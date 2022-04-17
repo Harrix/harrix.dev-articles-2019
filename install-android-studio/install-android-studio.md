@@ -1,4 +1,5 @@
 ---
+date: 2019-07-16
 categories: [it, program]
 tags: [Установка, Android Studio, Android, Java]
 related-id: start-java

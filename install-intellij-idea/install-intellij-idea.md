@@ -1,4 +1,5 @@
 ---
+date: 2019-07-14
 categories: [it, program]
 tags: [Установка, IntelliJ IDEA, JetBrains, Java]
 related-id: start-java

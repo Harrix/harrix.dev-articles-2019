@@ -1,4 +1,5 @@
 ---
+date: 2019-07-15
 categories: [it, programming]
 tags: [IntelliJ IDEA, JetBrains, Java, Сложение двух чисел]
 related-id: start-java

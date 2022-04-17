@@ -1,4 +1,5 @@
 ---
+date: 2019-08-08
 categories: [it, programming]
 tags: [Qt, C++, Qt Quick, QML, Сложение двух чисел]
 ---
