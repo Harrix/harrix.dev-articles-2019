@@ -11,7 +11,7 @@ related-id: start-java
 
 ## Приготовления
 
-В статье [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-16-install-android-studio/2019-07-16-install-android-studio.md) узнаете, как установить и настроить Android Studio.
+В статье [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-android-studio/install-android-studio.md) узнаете, как установить и настроить Android Studio.
 
 ## Создание проекта
 
