@@ -4,6 +4,8 @@ categories: [it, program]
 tags: [Установка, Java, Android]
 related-id: start-java
 update: 2020-08-19
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка JDK в Windows

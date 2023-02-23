@@ -3,6 +3,8 @@ date: 2019-07-14
 categories: [it, program]
 tags: [Установка, IntelliJ IDEA, JetBrains, Java]
 related-id: start-java
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка IntelliJ IDEA в Windows

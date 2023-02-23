@@ -3,6 +3,8 @@ date: 2019-07-15
 categories: [it, programming]
 tags: [IntelliJ IDEA, JetBrains, Java, Сложение двух чисел]
 related-id: start-java
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)

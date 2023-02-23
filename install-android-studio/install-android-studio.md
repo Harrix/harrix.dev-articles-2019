@@ -4,6 +4,8 @@ categories: [it, program]
 tags: [Установка, Android Studio, Android, Java]
 related-id: start-java
 update: 2021-08-09
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка Android Studio в Windows

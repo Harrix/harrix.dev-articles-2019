@@ -3,6 +3,8 @@ date: 2019-07-23
 categories: [it, programming]
 tags: [Android Studio, Android, Java, Сложение двух чисел]
 related-id: start-java
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел в Android Studio на Java (Android приложение)
