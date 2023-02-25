@@ -20,7 +20,7 @@ lang: ru
 
 ## Приготовления
 
-В статье [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-android-studio/install-android-studio.md) узнаете, как установить и настроить Android Studio.
+В статье [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-android-studio/install-android-studio.md) <!-- https://harrix.dev/ru/blog/2019/install-android-studio/ --> узнаете, как установить и настроить Android Studio.
 
 ## Создание проекта
 

@@ -20,7 +20,7 @@ lang: ru
 
 ## Приготовления
 
-В статье [Установка IntelliJ IDEA в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-intellij-idea/install-intellij-idea.md) узнаете, как всё установить и настроить.
+В статье [Установка IntelliJ IDEA в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-intellij-idea/install-intellij-idea.md) <!-- https://harrix.dev/ru/blog/2019/install-intellij-idea/ --> узнаете, как всё установить и настроить.
 
 ## Создание проекта
 

@@ -41,7 +41,7 @@ lang: ru
 
 _Рисунок 1 — Установленный JDK_
 
-Но если всё таки что-то пошло не так, то подробно об установке JDK можно узнать в статьях: [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md) или [Установка OpenJDK в Windows](https://github.com/Harrix/harrix.dev-blog-2021/blob/main/install-open-jdk-on-windows/install-open-jdk-on-windows.md).
+Но если всё таки что-то пошло не так, то подробно об установке JDK можно узнать в статьях: [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md) <!-- https://harrix.dev/ru/blog/2019/install-jdk-on-windows/ --> или [Установка OpenJDK в Windows](https://github.com/Harrix/harrix.dev-blog-2021/blob/main/install-open-jdk-on-windows/install-open-jdk-on-windows.md) <!-- https://harrix.dev/ru/blog/2021/install-open-jdk-on-windows/ -->.
 
 ## Скачивание Android Studio
 
@@ -409,11 +409,11 @@ _Рисунок 58 — Способ, как закрывать эмулятор_
 
 Если родной эмулятор от Android Studio не запускается или тормозит так, что работать нельзя, то можно попробовать сторонние эмуляторы, благо их много.
 
-[BlueStacks](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/bluestacks-for-android-studio/bluestacks-for-android-studio.md) — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
+[BlueStacks](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/bluestacks-for-android-studio/bluestacks-for-android-studio.md) <!-- https://harrix.dev/ru/blog/2018/bluestacks-for-android-studio/ --> — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
 
-[Genymotion](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/genymotion-for-android-studio/genymotion-for-android-studio.md) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
+[Genymotion](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/genymotion-for-android-studio/genymotion-for-android-studio.md) <!-- https://harrix.dev/ru/blog/2018/genymotion-for-android-studio/ --> — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
 
-[Nox](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/nox-for-android-studio/nox-for-android-studio.md) — еще один популярный эмулятор от китайцев, которым лично много пользовался.
+[Nox](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/nox-for-android-studio/nox-for-android-studio.md) <!-- https://harrix.dev/ru/blog/2018/nox-for-android-studio/ --> — еще один популярный эмулятор от китайцев, которым лично много пользовался.
 
 ## Запуск приложения
 
@@ -553,4 +553,4 @@ _Рисунок 76 — Настройки приложения_
 
 ## Пример приложения
 
-В статье [Сложение двух чисел в Android Studio на Java (Android приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/add-2-num-android/add-2-num-android.md) написано как вы можете написать простое приложение по сложению двух чисел.
+В статье [Сложение двух чисел в Android Studio на Java (Android приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/add-2-num-android/add-2-num-android.md) <!-- https://harrix.dev/ru/blog/2019/add-2-num-android/ --> написано как вы можете написать простое приложение по сложению двух чисел.
