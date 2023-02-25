@@ -14,6 +14,8 @@ lang: ru
 
 # Установка IntelliJ IDEA в Windows
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается, как установить IntelliJ IDEA.
 
 ## Установка JDK

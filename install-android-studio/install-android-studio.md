@@ -15,6 +15,8 @@ lang: ru
 
 # Установка Android Studio в Windows
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается, как установить Android Studio в Windows 10.
 
 ## Предварительные напутствия

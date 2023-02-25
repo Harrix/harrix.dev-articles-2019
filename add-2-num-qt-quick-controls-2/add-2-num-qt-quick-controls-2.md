@@ -13,6 +13,8 @@ lang: ru
 
 # Сложение двух чисел в Qt на C++ (Qt Quick Controls 2)
 
+![Featured image](featured-image.svg)
+
 В статье описывается создание приложения QML через Qt Quick Controls 2 с выполнением кода на C++.
 
 В качестве среды для разработки используется Qt 5.13.0 для Windows 64 bit под компилятор Visual Studio 2017.

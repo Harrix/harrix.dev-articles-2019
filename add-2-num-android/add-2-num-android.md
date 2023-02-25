@@ -14,6 +14,8 @@ lang: ru
 
 # Сложение двух чисел в Android Studio на Java (Android приложение)
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как создать приложения сложения двух чисел в Android Studio для Android.
 
 ## Приготовления
