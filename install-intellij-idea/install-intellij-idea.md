@@ -11,13 +11,9 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2019/blob/main/insta
 permalink: https://harrix.dev/ru/blog/2019/install-intellij-idea/
 lang: ru
 attribution:
-  - author: JetBrains
-    author-site: https://www.jetbrains.com/
-    license: Public domain
-    license-url: https://en.wikipedia.org/wiki/Public_domain
-    permalink: https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg
-    permalink-date: 2019-06-10
-    name: IntelliJ IDEA Logo.svg
+- {author: JetBrains, author-site: 'https://www.jetbrains.com/', license: Public domain,
+  license-url: 'https://en.wikipedia.org/wiki/Public_domain', permalink: 'https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg',
+  permalink-date: 2019-06-10, name: IntelliJ IDEA Logo.svg}
 ---
 
 # Установка IntelliJ IDEA в Windows
