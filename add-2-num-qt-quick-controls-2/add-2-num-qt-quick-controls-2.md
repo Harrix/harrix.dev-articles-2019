@@ -7,7 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2019/blob/main/add-2-num-qt-quick-controls-2/add-2-num-qt-quick-controls-2.md
-url: https://harrix.dev/ru/blog/2019/add-2-num-qt-quick-controls-2/
+permalink: https://harrix.dev/ru/blog/2019/add-2-num-qt-quick-controls-2/
 lang: ru
 ---
 
