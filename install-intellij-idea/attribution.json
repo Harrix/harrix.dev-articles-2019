@@ -1,11 +1,13 @@
-[
+{
+"attribution":[
   {
     "title": "IntelliJ IDEA Logo.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg",
-    "urlDate": "2019-06-10",
+    "permalink": "https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg",
+    "permalink-date": "2019-06-10",
     "author": "JetBrains",
-    "authorUrl": "https://www.jetbrains.com/",
+    "author-site": "https://www.jetbrains.com/",
     "license": "Public domain",
-    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain"
+    "license-url": "https://en.wikipedia.org/wiki/Public_domain"
   }
 ]
+}

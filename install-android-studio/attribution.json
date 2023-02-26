@@ -1,20 +1,22 @@
-[
+{
+"attribution":[
   {
     "title": "Android Studio icon.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
-    "urlDate": "2019-06-07",
+    "permalink": "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
+    "permalink-date": "2019-06-07",
     "author": "Google Inc.",
-    "authorUrl": "https://developer.android.com/license",
+    "author-site": "https://developer.android.com/license",
     "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license-url": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
     "title": "Windows 10 Logo.svg",
-    "url": "https://commons.wikimedia.org/wiki/File:Windows_10_Logo.svg",
-    "urlDate": "2019-06-22",
+    "permalink": "https://commons.wikimedia.org/wiki/File:Windows_10_Logo.svg",
+    "permalink-date": "2019-06-22",
     "author": "Microsoft",
-    "authorUrl": "https://www.microsoft.com/",
+    "author-site": "https://www.microsoft.com/",
     "license": "Public domain",
-    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain"
+    "license-url": "https://en.wikipedia.org/wiki/Public_domain"
   }
 ]
+}
