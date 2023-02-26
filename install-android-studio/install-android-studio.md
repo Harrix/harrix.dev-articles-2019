@@ -8,7 +8,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-url-src: https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-android-studio/install-android-studio.md
+permalink-source: https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-android-studio/install-android-studio.md
 permalink: https://harrix.dev/ru/blog/2019/install-android-studio/
 lang: ru
 ---
