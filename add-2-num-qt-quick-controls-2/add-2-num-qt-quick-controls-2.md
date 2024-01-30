@@ -6,8 +6,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2019/blob/main/add-2-num-qt-quick-controls-2/add-2-num-qt-quick-controls-2.md
-permalink: https://harrix.dev/ru/blog/2019/add-2-num-qt-quick-controls-2/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/add-2-num-qt-quick-controls-2/add-2-num-qt-quick-controls-2.md
+permalink: https://harrix.dev/ru/articles/2019/add-2-num-qt-quick-controls-2/
 lang: ru
 attribution:
   - {
@@ -29,7 +29,7 @@ attribution:
 
 В качестве среды для разработки используется Qt 5.13.0 для Windows 64 bit под компилятор Visual Studio 2017.
 
-В отличии от [статьи](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) <!-- https://harrix.dev/ru/blog/2016/add-2-num-qt-quick-controls/ --> и [статьи](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md) <!-- https://harrix.dev/ru/blog/2016/add-2-num-qt-quick/ --> в данной статьи рассматривается построение приложение не с использованием чистого QML или старых компонентов, а с использованием QtQuick Controls второго поколения.
+В отличии от [статьи](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) <!-- https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/ --> и [статьи](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md) <!-- https://harrix.dev/ru/articles/2016/add-2-num-qt-quick/ --> в данной статьи рассматривается построение приложение не с использованием чистого QML или старых компонентов, а с использованием QtQuick Controls второго поколения.
 
 ## Подготовка
 

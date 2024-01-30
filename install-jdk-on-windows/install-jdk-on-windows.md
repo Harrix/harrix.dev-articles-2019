@@ -8,8 +8,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md
-permalink: https://harrix.dev/ru/blog/2019/install-jdk-on-windows/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-jdk-on-windows/install-jdk-on-windows.md
+permalink: https://harrix.dev/ru/articles/2019/install-jdk-on-windows/
 lang: ru
 ---
 
@@ -19,7 +19,7 @@ lang: ru
 
 Для программирования под Java и, в частности, при создании приложений под Android на компе требуется установка JDK (Java Development Kit). В статье рассказывается как это сделать.
 
-В статье рассматривается способ установки под Widows 10, но никакой разницы для других версий Windows не должно быть. Если вам нужна JDK более младшей версии или у вас, например, 32-битная Windows, то посмотрите [статью](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/install-jdk-8-on-windows/install-jdk-8-on-windows.md) <!-- https://harrix.dev/ru/blog/2014/install-jdk-8-on-windows/ --> про установку JDK 8.
+В статье рассматривается способ установки под Widows 10, но никакой разницы для других версий Windows не должно быть. Если вам нужна JDK более младшей версии или у вас, например, 32-битная Windows, то посмотрите [статью](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-jdk-8-on-windows/install-jdk-8-on-windows.md) <!-- https://harrix.dev/ru/articles/2014/install-jdk-8-on-windows/ --> про установку JDK 8.
 
 Скачиваем и устанавливаем с официального сайта:
 
