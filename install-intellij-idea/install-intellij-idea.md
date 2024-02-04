@@ -30,7 +30,7 @@ attribution:
 
 ## Установка JDK
 
-Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка Open JDK в Windows](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-open-jdk-on-windows/install-open-jdk-on-windows.md)<!-- https://harrix.dev/ru/articles/2021/install-open-jdk-on-windows/ -->.
+Вначале необходимо установить **JDK**. Всё просто, но если есть вопросы, то подробно можно узнать в статье: [Установка Open JDK в Windows](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-open-jdk-on-windows/install-open-jdk-on-windows.md) | [🡥](https://harrix.dev/ru/articles/2021/install-open-jdk-on-windows/).
 
 ## Скачивание IntelliJ IDEA
 
@@ -174,4 +174,4 @@ _Рисунок 21 — Дополнительные настройки прил�
 
 ## Дополнительно
 
-В статье [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/add-2-num-intellij-idea/add-2-num-intellij-idea.md)<!-- https://harrix.dev/ru/articles/2019/add-2-num-intellij-idea/ --> вы можете посмотреть пример того, как сложить два числа.
+В статье [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/add-2-num-intellij-idea/add-2-num-intellij-idea.md) | [🡥](https://harrix.dev/ru/articles/2019/add-2-num-intellij-idea/) вы можете посмотреть пример того, как сложить два числа.
