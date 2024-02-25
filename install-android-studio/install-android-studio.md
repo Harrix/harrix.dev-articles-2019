@@ -12,8 +12,16 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/i
 permalink: https://harrix.dev/ru/articles/2019/install-android-studio/
 lang: ru
 attribution:
-  - { author: Google Inc., author-site: "https://developer.android.com/license", license: CC
-        BY 2.5, license-url: "https://creativecommons.org/licenses/by/2.5/", permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg", permalink-date: 2019-06-07, name: Android Studio icon.svg }
+  - {
+      author: Google Inc.,
+      author-site: "https://developer.android.com/license",
+      license: CC
+        BY 2.5,
+      license-url: "https://creativecommons.org/licenses/by/2.5/",
+      permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
+      permalink-date: 2019-06-07,
+      name: Android Studio icon.svg,
+    }
   - {
       author: Microsoft,
       author-site: "https://www.microsoft.com/",
