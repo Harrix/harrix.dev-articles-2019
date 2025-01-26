@@ -1,7 +1,14 @@
 ---
 date: 2019-08-08
-categories: [it, programming]
-tags: [Qt, C++, Qt Quick, QML, Сложение двух чисел]
+categories:
+  - it
+  - programming
+tags:
+  - Qt
+  - C++
+  - Qt Quick
+  - QML
+  - Сложение двух чисел
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,15 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/a
 permalink: https://harrix.dev/ru/articles/2019/add-2-num-qt-quick-controls-2/
 lang: ru
 attribution:
-  - {
-      author: Qt Project,
-      author-site: "https://www.qt.io",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg",
-      permalink-date: 2019-01-26,
-      name: Qt logo 2016.svg,
-    }
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Сложение двух чисел в Qt на C++ (Qt Quick Controls 2)

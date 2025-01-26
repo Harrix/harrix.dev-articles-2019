@@ -1,7 +1,13 @@
 ---
 date: 2019-07-23
-categories: [it, programming]
-tags: [Android Studio, Android, Java, Сложение двух чисел]
+categories:
+  - it
+  - programming
+tags:
+  - Android Studio
+  - Android
+  - Java
+  - Сложение двух чисел
 related-id: start-java
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,16 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/a
 permalink: https://harrix.dev/ru/articles/2019/add-2-num-android/
 lang: ru
 attribution:
-  - {
-      author: Google Inc.,
-      author-site: "https://developer.android.com/license",
-      license: CC
-        BY 2.5,
-      license-url: "https://creativecommons.org/licenses/by/2.5/",
-      permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
-      permalink-date: 2019-06-07,
-      name: Android Studio icon.svg,
-    }
+  - author: Google Inc.
+    author-site: https://developer.android.com/license
+    license: CC BY 2.5
+    license-url: https://creativecommons.org/licenses/by/2.5/
+    permalink: https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg
+    permalink-date: 2019-06-07
+    name: Android Studio icon.svg
 ---
 
 # Сложение двух чисел в Android Studio на Java (Android приложение)

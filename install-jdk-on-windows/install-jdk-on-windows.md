@@ -1,7 +1,12 @@
 ---
 date: 2019-07-07
-categories: [it, program]
-tags: [Установка, Java, Android]
+categories:
+  - it
+  - program
+tags:
+  - Установка
+  - Java
+  - Android
 related-id: start-java
 update: 2020-08-19
 author: Anton Sergienko

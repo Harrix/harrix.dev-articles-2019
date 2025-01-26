@@ -1,7 +1,13 @@
 ---
 date: 2019-07-15
-categories: [it, programming]
-tags: [IntelliJ IDEA, JetBrains, Java, Сложение двух чисел]
+categories:
+  - it
+  - programming
+tags:
+  - IntelliJ IDEA
+  - JetBrains
+  - Java
+  - Сложение двух чисел
 related-id: start-java
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
@@ -11,15 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/a
 permalink: https://harrix.dev/ru/articles/2019/add-2-num-intellij-idea/
 lang: ru
 attribution:
-  - {
-      author: JetBrains,
-      author-site: "https://www.jetbrains.com/",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg",
-      permalink-date: 2019-06-10,
-      name: IntelliJ IDEA Logo.svg,
-    }
+  - author: JetBrains
+    author-site: https://www.jetbrains.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg
+    permalink-date: 2019-06-10
+    name: IntelliJ IDEA Logo.svg
 ---
 
 # Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)

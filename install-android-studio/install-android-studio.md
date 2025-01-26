@@ -1,7 +1,13 @@
 ---
 date: 2019-07-16
-categories: [it, program]
-tags: [Установка, Android Studio, Android, Java]
+categories:
+  - it
+  - program
+tags:
+  - Установка
+  - Android Studio
+  - Android
+  - Java
 related-id: start-java
 update: 2021-08-09
 author: Anton Sergienko
@@ -12,25 +18,20 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2019/blob/main/i
 permalink: https://harrix.dev/ru/articles/2019/install-android-studio/
 lang: ru
 attribution:
-  - {
-      author: Google Inc.,
-      author-site: "https://developer.android.com/license",
-      license: CC
-        BY 2.5,
-      license-url: "https://creativecommons.org/licenses/by/2.5/",
-      permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
-      permalink-date: 2019-06-07,
-      name: Android Studio icon.svg,
-    }
-  - {
-      author: Microsoft,
-      author-site: "https://www.microsoft.com/",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Windows_10_Logo.svg",
-      permalink-date: 2019-06-22,
-      name: Windows 10 Logo.svg,
-    }
+  - author: Google Inc.
+    author-site: https://developer.android.com/license
+    license: CC BY 2.5
+    license-url: https://creativecommons.org/licenses/by/2.5/
+    permalink: https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg
+    permalink-date: 2019-06-07
+    name: Android Studio icon.svg
+  - author: Microsoft
+    author-site: https://www.microsoft.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Windows_10_Logo.svg
+    permalink-date: 2019-06-22
+    name: Windows 10 Logo.svg
 ---
 
 # Установка Android Studio в Windows
