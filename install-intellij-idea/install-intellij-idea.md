@@ -32,6 +32,8 @@ attribution:
 
 В статье рассказывается, как установить IntelliJ IDEA.
 
+## Содержание
+
 - [Установка JDK](#установка-jdk)
 - [Скачивание IntelliJ IDEA](#скачивание-intellij-idea)
 - [Установка IntelliJ IDEA](#установка-intellij-idea)
