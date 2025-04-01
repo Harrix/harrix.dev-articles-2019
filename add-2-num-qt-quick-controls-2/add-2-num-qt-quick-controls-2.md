@@ -41,11 +41,11 @@ attribution:
 - [Построение интерфейса](#построение-интерфейса)
 - [C++ часть](#c-часть)
 
+</details>
+
 В качестве среды для разработки используется Qt 5.13.0 для Windows 64 bit под компилятор Visual Studio 2017.
 
 В отличии от [статьи](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick-controls/add-2-num-qt-quick-controls.md) | [🡥](https://harrix.dev/ru/articles/2016/add-2-num-qt-quick-controls/) и [статьи](https://github.com/Harrix/harrix.dev-articles-2016/blob/main/add-2-num-qt-quick/add-2-num-qt-quick.md) | [🡥](https://harrix.dev/ru/articles/2016/add-2-num-qt-quick/) в данной статьи рассматривается построение приложение не с использованием чистого QML или старых компонентов, а с использованием QtQuick Controls второго поколения.
-
-</details>
 
 ## Подготовка
 
